@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "contentful": "^9.1.28",
+    "marked": "^4.0.15"
+  }
+}
